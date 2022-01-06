@@ -31,6 +31,7 @@ sendBtn.addEventListener("click", function(event){
         initials: initialsInput.value
     }
     if ((numInput.value === '') || (initialsInput.value === '')){
+        alert('Please enter a number and you initials');
         return;
     } else {
         input.push(userInput);
