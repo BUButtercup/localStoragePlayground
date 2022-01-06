@@ -1,0 +1,1 @@
+this is intended to be a local storage playground. The intention is to practice using javascript to capture, save and display user input to and from local storage.
